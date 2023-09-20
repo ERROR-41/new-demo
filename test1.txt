@@ -1,3 +1,4 @@
 hello this is a test one text example demo that change purpose
 
 I am join will full stack web development in python dev
+solve logo alignment #3
